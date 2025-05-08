@@ -1,4 +1,4 @@
 def hello():
-  print("Hello, Lyu Hyunseo!")
+  print("Hello, Lyu Hyunseo and Everyone!")
 
 hello()
