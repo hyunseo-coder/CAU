@@ -1,4 +1,4 @@
 def hello():
-  git aprint("Hello, Lyu!")
+  print("Hello, Lyu Hyunseo!")
 
 hello()
