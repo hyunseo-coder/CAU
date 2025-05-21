@@ -1,3 +1,5 @@
-This is the original line from repo2.
-Line 2 from repo2.
-Line 3 from repo2.
+This is the combined content after resolving conflict.
+Original line from repo2: This is the original line from repo2.
+Modified line from CAU: This is the modified line from CAU repo.
+Merged line 2.
+Merged line 3.
